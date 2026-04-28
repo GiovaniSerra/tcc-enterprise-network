@@ -68,7 +68,9 @@ High-availability site with:
 ## Documentation
 
 - [HLD – High Level Design](Enterprise-1/HLD/)
+
 - [LLD – Low Level Design](Enterprise-1/LLD/)
+
 - [Implementation Guide](Enterprise-1/Implementation/)
 
 ## Example Flows
@@ -81,6 +83,8 @@ High-availability site with:
 
 - VPN:
 ![image alt]()
+
+[More FLOWS: ](Enterprise-1/FLOW)
 
 ## Repository Structure
 
@@ -96,4 +100,8 @@ The goal is to simulate a production-ready enterprise network.
 
 ## Troubleshooting
 
-(Enterprise-1/Troubleshooting/)
+- [SCENARIO 1]()
+
+- [SCENARIO 2]()
+
+- [SCENARIO 3]()
